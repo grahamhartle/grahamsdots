@@ -28,7 +28,7 @@ autoload -Uz colors && colors
 
 # Useful Functions
 source "$ZDOTDIR/zsh-functions"
-
+# source "$ZDOTDIR/themes/agnoster.zsh-theme"
 # Normal files to source
 # zsh_add_file "zsh-exports"
 zsh_add_file "zsh-vim-mode"
