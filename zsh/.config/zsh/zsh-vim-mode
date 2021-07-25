@@ -25,3 +25,13 @@ zle -N zle-line-init
 echo -ne '\e[5 q' # Use beam shape cursor on startup.
 preexec() { echo -ne '\e[5 q' ;} # Use beam shape cursor for each new prompt.
 
+# custom widget
+function my_custom_widget(){
+  echo 'Hello, ZSH!'
+}
+
+function zvm_after_lazy_keybindings(){
+  zvm_define_widget my_custom_widget
+  zvm_bindkey vicmd '^E' my_custom_widget
+}
+
