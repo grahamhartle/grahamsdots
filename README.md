@@ -1,3 +1,5 @@
-# grahamsdots
+# grahamsdots 🖥📂
 
-Just my current dotfiles configured to my personal preferences.
+Just my current dotfiles.
+
+Taking inspiration from the work of others, but with my own twist.
