@@ -1,4 +1,4 @@
-# grahamsdots 🖥📂
+# grahamsdots 🖥 📂
 
 Just my current dotfiles.
 
