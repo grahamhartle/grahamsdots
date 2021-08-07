@@ -1,3 +1,37 @@
+brew uninstall vifm
+brew cleanup
+mc
+mc
+la
+ranger
+mc
+clear
+q
+mc
+mc
+.config
+la
+trash vifm
+la
+cd
+mc
+ranger
+pip list
+ranger --clean
+ranger
+ranger
+ranger
+pip list
+pip3 install PIL
+pip3 install pil
+ranger
+python3 -m pip3 list
+python3 -m pip list
+ranger
+ranger
+ranger
+mc
+.config
 la
 cd ranger
 la
@@ -972,51 +1006,3 @@ git push
 cd
 cd
 /Users/graham/Downloads/Eclipse.app/Contents/MacOS/LuaDevelopmentTools ; exit;
-la
-la .config
-lvim
-lvim
-/usr/local/bin/python3 -m pip install -U pylint --user
-/usr/local/bin/python3 /Users/graham/Development/programming/python/hello.py
-/usr/local/bin/python3 -m pip install -U autopep8 --user
-pwd
-luarocks install luacheck
-luacheck src printx.lua
-luacheck printx.lua
-/usr/local/bin/python3 /Users/graham/Development/programming/python/pythonBootcamp/args.py
-pip help
-python3 -m venv venv
-./venv/bin/activate
-la
-venv/bin/activate
-./venv/bin/activate
-sudo ./venv/bin/activate
-venv/bin/activate
-sudo venv/bin/activate
-sudo /venv/bin/activate
-sudo ./venv/bin/activate
-./venv/bin/activate
-source ./venv/bin/activate
-pip install requests
-python3 -m pip install --upgrade pip
-pip list
-deactivate
-source ./venv/bin/activate
-deactivate
-/usr/local/bin/python3 /Users/graham/Development/programming/python/hello.py
-la
-exit
-git
-git help rm
-git pull
-brew update
-brew upgrade
-z python
-la
-code .
-cd
-la
-z python
-touch .gitignore
-lvim .gitignore
-code .
