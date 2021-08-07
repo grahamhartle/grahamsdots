@@ -9,6 +9,7 @@
 .LSOverride
 .CFUserTextEncoding
 .zsh_history
+.zsh_sessions
 
 # Icon must end with two \r
 Icon
