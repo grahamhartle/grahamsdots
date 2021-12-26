@@ -86,5 +86,9 @@ if is-at-least 4.2.0; then
   alias -s ace="unace l"
 fi
 
+# Pip Aliases
+  alias pipl="python3 -m pip list"
+  alias pipins="python3 -m pip install "
+
 # Make zsh know about hosts already accessed by SSH
 zstyle -e ':completion:*:(ssh|scp|sftp|rsh|rsync):hosts' hosts 'reply=(${=${${(f)"$(cat {/etc/ssh_,~/.ssh/known_}hosts(|2)(N) /dev/null)"}%%[# ]*}//,/ })'
